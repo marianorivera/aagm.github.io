@@ -2,18 +2,16 @@
 
 <center><span  style="color:  #f2cf4a; font-family: Babas; font-size: 4em;">26 th November, 2019, Auckland, New Zealand </span></center>
 
-##
+###
 
 <center><span  style="color:  #f2cf4a; font-family: Babas; font-size: 4em;">in conjunction to 5th Asian Conference on Pattern Recognition (ACPR) </span></center>
 
-##
+###
 
 <center><span  style="color:  #f2cf4a; font-family: Babas; font-size: 2em;">Submission deadline: September 5</span></center>
 
+<img src="bended.jpg" alt="bended" class="center">
 
-![bended](bended.jpg)
-
-___________
 
 ## Motivation
 
