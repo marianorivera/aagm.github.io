@@ -16,13 +16,13 @@
 ## Motivation
 
 
-To be effectively trained, deep neural networks require the support of large volumes of data. The quality, variety, and volume of the data are the great differentiator for obtaining a network with a high performance and does not with a mediocre performance. As in general, it is difficult to obtain databases that meet these characteristics, researchers have opted for developing models for data generation. Such generation models can be operated on modest databases, infer the underlying distribution of the data and can be used for generating new data.
+Deep neural networks require the support of large volumes of data to be effectively trained. The quality, variety, and volume of the data are the great differentiator for obtaining a network with a high performance and does not with a mediocre performance. As in general, it is difficult to obtain databases that meet these characteristics, researchers have opted for developing models for data generation. Such generational models can be operated on modest databases, infer the underlying distribution of the data and can be used for generating new data.
 
-The best models for estimating underlying probability densities of data are based at the same time on deep neural networks. A good variety of deep generative models have been proposed. Among such frameworks, Variational Autoencoders (VANs), Generative Antagonist Networks (GANs) and Autoregressive Models are prominent. The aforementioned models have advantages and disadvantages: VANs allow to efficiently compact data into low-dimensional latent spaces, but easily generate blurry samples; GANs allow one to generate data of very good quality, but they are in general difficult to be trained; Autoregressive models are simple and stable though limited to the generation of complex data.
+The best models for estimating underlying probability densities of data are also based on deep neural networks and a good variety of deep generative models have been proposed. Among such frameworks, Variational Autoencoders (VANs), Generative Antagonist Networks (GANs) and Autoregressive Models are prominent. The aforementioned models have advantages and disadvantages: VANs allow to efficiently compact data into low-dimensional latent spaces, but easily generate blurry samples; GANs allow one to generate data of very good quality, but they are in general difficult to be trained; Autoregressive models are simple and stable though limited to the generation of complex data.
 
 ## Topics
 
-The estimation of underlying data density  is one of the most active areas in pattern recognition ; the models that can be sampled to generate synthetic data which is indistinguishable from real data.  For this workshop, we call for original papers focused on reporting advances in deep generative models, as well as the novel applications. Both, theoretical and practical contribution are welcome in related topics related, as
+The estimation of underlying data density is one of the most active areas in pattern recognition: models that can be sampled to generate synthetic data which is indistinguishable from real data.  For this workshop, we call for original papers focused on reporting advances in deep generative models, as well as the novel applications. Both, theoretical and practical contribution are welcome in related topics, as
 
 - New paradigms of Generative Models
 - Interpretability of Latent Variables
@@ -34,7 +34,7 @@ The estimation of underlying data density  is one of the most active areas in pa
 
 ## Author’s Information
 
-Submitted papers should author blinded and do dot have been published, accepted or under review elsewhere. Non-peer reviewed media, such as Arxiv do not violate the terms.
+Submitted papers should author blinded and do not have been published, accepted or under review elsewhere. Non-peer reviewed media, such as Arxiv do not violate the terms.
 
 Submissions need to follow the single-blind policy and be formatted in LNCS style, with a maximum of 14 pages (including references).
 
@@ -50,8 +50,8 @@ Workshop proceedings will be published after the conference in the CCIS series o
 ## Important Dates
 
 - Paper **Submission Deadline: September 5**, 2019 (No Extension)
-	[**Submissions**](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2F3IAR2019)
-
+	*Submissions link*
+	
 - Notification to Authors:  September 25, 2019
 - Camera-Ready Deadline:  October 1, 2019
 - Workshop Date: November 26, 2019
