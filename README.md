@@ -50,7 +50,7 @@ Workshop proceedings will be published after the conference in the CCIS series o
 ## Important Dates
 
 - Paper **Submission Deadline: September 5**, 2019 (No Extension)
-	*Submissions link*
+	*Submissions link TBD*
 	
 - Notification to Authors:  September 25, 2019
 - Camera-Ready Deadline:  October 1, 2019
