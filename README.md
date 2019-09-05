@@ -1,4 +1,4 @@
-# Advances and Applications on Generative Deep Learning Models (AAGM)
+﻿# Advances and Applications on Generative Deep Learning Models (AAGM)
 
 <center><span  style="color:  #f2cf4a; font-family: Babas; font-size: 4em;">26 th November, 2019, Auckland, New Zealand </span></center>
 
@@ -8,7 +8,7 @@
 
 ###
 
-<center><span  style="color:  #f2cf4a; font-family: Babas; font-size: 2em;">Submission deadline: September 5</span></center>
+<center><span  style="color:  #f2cf4a; font-family: Babas; font-size: 2em;">Submission deadline (EXTENDED): September 15th</span></center>
 
 <img src="bended.jpg" alt="bended" class="center">
 
@@ -49,7 +49,7 @@ Workshop proceedings will be published after the conference in the CCIS series o
   
 ## Important Dates
 
-- Paper **Submission Deadline: September 5**, 2019 (No Extension)
+- Paper **Submission Deadline: September 15th**, 2019 (Extended deadline and Final)
 	*Submissions link TBD*
 	
 - Notification to Authors:  September 25, 2019
