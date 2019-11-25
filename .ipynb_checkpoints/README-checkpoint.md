@@ -1,6 +1,6 @@
 ﻿# Advances and Applications on Generative Deep Learning Models (AAGM)
 
-<center><span  style="color:  #f2cf4a; font-family: Babas; font-size: 4em;">26th November, 2019, Auckland, New Zealand </span></center>
+<center><span  style="color:  #f2cf4a; font-family: Babas; font-size: 4em;">26 th November, 2019, Auckland, New Zealand </span></center>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<center><span  style="color:  #f2cf4a; font-family: Babas; font-size: 2em;">Submission deadline: September 15th</span></center>
+<center><span  style="color:  #f2cf4a; font-family: Babas; font-size: 2em;">Submission deadline (EXTENDED): September 15th</span></center>
 
 <img src="bended.jpg" alt="bended" class="center">
 
@@ -49,55 +49,32 @@ Workshop proceedings will be published after the conference in the CCIS series o
   
 ## Important Dates
 
-- Paper Submission Deadline: September 15th, 2019 (Extended deadline and Final)
+- Paper **Submission Deadline: September 15th**, 2019 (Extended deadline and Final)
 - Notification to Authors:  September 25, 2019
 - Camera-Ready Deadline:  October 1, 2019
 - Workshop Date: November 26, 2019
 
 ## Room WG809
 
-Aukland University of Technology 
-City Campus, 
-WG Building Level 8
+AUT City Campus, 
+WG Building Level 8,
 Entrance from Mayoral Drive
 
 ## Program
 
-9:30-9:50 Venue
+8:50-9:00 Venue
 
-9:50-10:20 **Vehicle-Related Scene Understanding Using Deep Learning.**
-Xiaoxu Liu* and Wei Qi Yan (Auckland University of Technology, New Zealand)
+9:00-9:30 Attention Guided Unsupervised Image-to-Image Translation with Progressively Growing Strategy. 
 
-10:20-10:50  **Spatiotemporal Saliency based Multi-stream Networks for Action Recognition.** Ming Zong (Massey University)*
+9:30-10:00 Spatiotemporal Saliency based Multi-stream Networks for Action Recognition
 
-10:50-11:20 Coffe Break
+10:00-10:30 vi-MoCoGAN: A variant of MoCoGAN for video generation of human hand gestures under different viewpoints
 
-11:20-11:50 **Attention Guided Unsupervised Image-to-Image Translation with Progressively Growing Strategy.** Yuchen Wu* (University of Electronic Science and Technology of China); Runtong Zhang (University of Electronic Science and Technology of China); Keiji Yanai (Univ. Electro-Comm., Tokyo). 
+10:30-11:00 Coffe Break
 
-11:50-12:20 **Human motion generation based on GAN toward unsupervised 3D human pose estimation**. Sasuke Yamane, Hirotake Yamazoe* and Joo-Ho Lee;(Ritsumeikan University)
+11:00-11:30 Vehicle-Related Scene Understanding Using Deep Learning
 
-12:20-12:50 **vi-MoCoGAN: A variant of MoCoGAN for video generation of human hand gestures under different viewpoints.** Thanh-Hai Tran* (Int. Research Inst. MICA, HUST-CNRS/UMI-2954 -GRENOBLE INP, Vietnam), Viet-Dung Bach (Int. Research Inst. MICA, HUST) and Huong Giang Doan (Electric Power University)
-
-
-
-
-  
-
-
-
-
-  
-
-
-
-
-  
-
-
-  
-
-
-
+11:30-12:00 Human motion generation based on GAN toward unsupervised 3D human pose estimation
 
 ## Organizing committee
 
