@@ -1,14 +1,10 @@
 ﻿# Advances and Applications on Generative Deep Learning Models (AAGM)
 
-<center><span  style="color:  #f2cf4a; font-family: Babas; font-size: 4em;">26th November, 2019, Auckland, New Zealand </span></center>
 
-###
+## 26th November, 2019, Auckland, New Zealand 
 
-<center><span  style="color:  #f2cf4a; font-family: Babas; font-size: 4em;">in conjunction to 5th Asian Conference on Pattern Recognition (ACPR) </span></center>
-
-###
-
-<center><span  style="color:  #f2cf4a; font-family: Babas; font-size: 2em;">Submission deadline: September 15th</span></center>
+### In conjunction to 5th Asian Conference on Pattern Recognition (ACPR) </span></center>
+_______
 
 <img src="bended.jpg" alt="bended" class="center">
 
