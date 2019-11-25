@@ -1,9 +1,9 @@
 ﻿# Advances and Applications on Generative Deep Learning Models (AAGM)
 
 
-## 26th November, 2019, Auckland, New Zealand 
+## 26th November 2019, Auckland, New Zealand 
 
-### In conjunction to 5th Asian Conference on Pattern Recognition (ACPR) </span></center>
+### In conjunction to 5th Asian Conference on Pattern Recognition (ACPR) 
 _______
 
 <img src="bended.jpg" alt="bended" class="center">
@@ -53,8 +53,11 @@ Workshop proceedings will be published after the conference in the CCIS series o
 ## Room WG809
 
 Aukland University of Technology 
+
 City Campus, 
+
 WG Building Level 8
+
 Entrance from Mayoral Drive
 
 ## Program
@@ -66,7 +69,7 @@ Xiaoxu Liu* and Wei Qi Yan (Auckland University of Technology, New Zealand)
 
 10:20-10:50  **Spatiotemporal Saliency based Multi-stream Networks for Action Recognition.** Ming Zong (Massey University)*
 
-10:50-11:20 Coffe Break
+10:50-11:20 **Coffe Break**
 
 11:20-11:50 **Attention Guided Unsupervised Image-to-Image Translation with Progressively Growing Strategy.** Yuchen Wu* (University of Electronic Science and Technology of China); Runtong Zhang (University of Electronic Science and Technology of China); Keiji Yanai (Univ. Electro-Comm., Tokyo). 
 
